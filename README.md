@@ -1,51 +1,34 @@
-# Hi 👋 I'm Hariharapranav R S
+# Hi 👋, I'm Hariharapranav R S
 
-### Full Stack Developer | Java • JavaScript • React
+### Java Fullstack Developer @Edsols | Spring Boot • React • AWS | Building Scalable SaaS Platforms
 
-I’m a passionate **Full Stack Developer** from India who enjoys building scalable, user-centric web applications.  
-I work comfortably across both **frontend and backend**, and I’m constantly learning new tools and frameworks to stay ahead in the tech curve.
-
-I believe in writing **clean code**, creating **intuitive UI**, and solving **real-world problems** through technology.
-
----
+![Profile views](https://komarev.com/ghpvc/?username=Hariharapranav&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
 
-- 🌍 Based in **India**
-- 💻 Full Stack Developer
-- ✉️ Reach me at **[pranavh194@gmail.com](mailto:pranavh194@gmail.com)**
+- 🔭 I'm currently working as **Fullstack Developer** at **Edsols**
+- 🔭 I'm currently working on **Java Projects**
+- 🌱 I'm currently learning **Springboot**
+- 📍 Based in **Bangalore**
+- 📫 Reach me at **pranavh194@gmail.com**
+- 🌐 Portfolio: [https://hariharapranav.vercel.app/](https://hariharapranav.vercel.app/)
 
----
+## 💻 Tech Stack
 
-## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Programming Languages
-- C, C++
-- Java
-- JavaScript, TypeScript
+## 📊 GitHub Stats
 
-### Frontend
-- HTML5, CSS3
-- React.js, Angular
-- Tailwind CSS
+![Hariharapranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hariharapranav&show_icons=true&theme=radical)
 
-### Backend & Databases
-- Node.js
-- MySQL
-- Firebase
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharapranav&layout=compact&theme=radical)
 
-### Design & Tools
-- Figma
-- Adobe XD
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hariharapranav&theme=radical)
 
----
+## 📈 Activity Graph
 
-## 🌐 Social Links
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariharapranav&theme=react-dark)
 
-- 💼 LinkedIn: [hariharapranav-r-s](https://www.linkedin.com/in/hariharapranav-r-s-124195200/)
-- 🧑‍💻 GitHub: [Hariharapranav](https://github.com/Hariharapranav)
-- 🎨 Dribbble: [PranavDesignz](https://www.dribbble.com/PranavDesignz)
+## 🐍 Contribution Snake
 
----
-
-⭐ *Always open to learning, collaborating, and building impactful products.*
+![Snake animation](https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/github-contribution-grid-snake.svg)
