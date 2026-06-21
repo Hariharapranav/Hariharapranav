@@ -1,157 +1,130 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharapranav%20R%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Fullstack%20Engineer%20%7C%20Microservices%20%7C%20SaaS%20Builder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hariharapranav%20R%20S&fontSize=48&fontColor=e2d9f3&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20Python%20·%20React%20·%20Flutter%20·%20AWS&descAlignY=68&descSize=15&descColor=a78bfa" width="100%" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Java+Fullstack+Developer+%40+Edsols;Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+AWS;Building+Slidio+%E2%80%94+Instagram+DM+Automation+SaaS;Oracle+Certified+Java+SE+8+Programmer;Turning+ideas+into+scalable+products" alt="Typing SVG" />
-</a>
+</div>
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Hariharapranav&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Hariharapranav?style=for-the-badge&color=ec4899&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%208-f97316?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+<div align="center">
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I build **scalable distributed systems and SaaS tools** that solve real problems. Currently working at **Edsols** — refactoring healthcare platforms into microservices and building therapy software used by clinicians daily — while growing **Slidio**, an Instagram DM automation platform, as an indie project.
-
-I care about **event-driven architecture**, **clean API design**, and making complex backend systems feel effortless to use.
-
-```yaml
-name         : Hariharapranav R S
-role         : Java Fullstack Developer @ Edsols Innovations
-location     : Bengaluru, India
-experience   : 1.5+ years (industry) · Virtusa → BIT → Edsols
-current      : Building Slidio — Instagram DM Automation SaaS
-core_stack   : Spring Boot · Microservices · Kafka · React · PostgreSQL · AWS
-certification: Oracle Certified Associate — Java SE 8
-contact      : pranavh194@gmail.com
-portfolio    : https://hariharapranav.vercel.app
+```
+┌─────────────────────────────────────────────────────────────┐
+│  pranavh194@gmail.com  ·  Bengaluru, India  ·  Open to Work │
+└─────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 🚀 What I've Shipped
-
-### 💼 Professional
-
-| Project | What it does | Tech | Impact |
-|---------|-------------|------|--------|
-| **Therapware** | Therapy session & assessment management platform for children with language disabilities | FastAPI · PostgreSQL · JWT · AWS | Used by therapists in active clinical settings |
-| **EMR Platform** | Electronic Medical Records system split from a monolithic healthcare platform | Spring Boot · PostgreSQL · Docker | Refactored monolith → 2 independent, deployable services |
-| **BitHack Platform** | Hackathon registration & participant management system for college events | React · Backend APIs | Used across event registrations at BIT |
-| **Edsols Website** | Company web presence built and maintained | React.js · Tailwind CSS | Live in production |
-
-### 🛠️ Open Source / Personal Projects
-
-| Project | What it does | Tech |
-|---------|-------------|------|
-| **[Banking Microservices Platform](https://github.com/Hariharapranav)** | Full-stack banking app with Auth, User, Account & Transaction services, event-driven async processing | Spring Boot · Kafka · PostgreSQL · React · Spring Cloud Gateway · JWT |
-| **[Smart API Rate-Limit & Abuse Detection](https://github.com/Hariharapranav)** | API gateway that detects, throttles, and blocks abusive traffic with a live monitoring dashboard | Spring Boot · Redis · Kafka · Next.js |
-| **[Slidio](https://github.com/Hariharapranav)** | Instagram DM automation SaaS — schedule and automate DM campaigns for creators & brands | In active development |
-
----
-
-## 🛠️ Tech Stack
-
-### ⚡ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python&theme=dark" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,figma&theme=dark" />
-</p>
-
-### 🔧 Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,kafka&theme=dark" />
-</p>
-
-### 🗄️ Databases & Cache
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,supabase&theme=dark" />
-</p>
-
-### ☁️ Cloud, DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,postman&theme=dark" />
-</p>
-
----
-
-## 💡 Core Competencies
-
-<div align="center">
-
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-6366f1?style=flat-square&logo=apachekafka&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven-Systems-ec4899?style=flat-square&logo=apacheactivemq&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-Design-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT-Authentication-f97316?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring-Security-22c55e?style=flat-square&logo=springsecurity&logoColor=white)
-![System Design](https://img.shields.io/badge/System-Design-8b5cf6?style=flat-square&logo=diagrams.net&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hariharapranav.vercel.app-a78bfa?style=flat-square&logo=vercel&logoColor=white)](https://hariharapranav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hariharapranav-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharapranav/)
+[![GitHub](https://img.shields.io/badge/GitHub-Hariharapranav-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/Hariharapranav)
+[![Email](https://img.shields.io/badge/Email-pranavh194@gmail.com-8b5cf6?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavh194@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+### `whoami`
 
-<div align="center">
+Full Stack Developer with ~2 years building production-grade applications end-to-end — from PostgreSQL schema design to AWS deployment. I thrive in small product teams where ownership is total and the feedback loop is tight.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hariharapranav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=ec4899&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharapranav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+Currently at **Edsols Innovations** shipping [Lingooleap](https://hariharapranav.vercel.app/) — a therapy platform for children with autism and speech disabilities — and leading its Flutter mobile app with Razorpay subscription integration.
 
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hariharapranav&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=ec4899&fire=f97316&currStreakLabel=6366f1" width="60%"/>
-</div>
-
-<div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
----
-<!--
-## 📺 Latest on YouTube
-
-| Video | Topic |
-|-------|-------|
-| 🎬 [Building a Microservices Banking Platform](https://www.youtube.com/@iPranav143) | Spring Boot · Kafka · Spring Cloud Gateway deep dive |
-| 🎬 [API Rate Limiting with Redis & Kafka](https://www.youtube.com/@iPranav143) | Real-world abuse detection system walkthrough |
-
-> 🔔 [Subscribe](https://www.youtube.com/@iPranav143) — I share deep dives on backend architecture, microservices, and SaaS building from real projects.
--->
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://hariharapranav.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharapranav/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iPranav143)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavh194@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariharapranav)
-
-</div>
+Also building **Slidio**, an Instagram DM automation SaaS, on the side.
 
 ---
 
+### `stack`
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-14103a?style=for-the-badge&logo=python&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-14103a?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-14103a?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![Dart](https://img.shields.io/badge/Dart-14103a?style=for-the-badge&logo=dart&logoColor=a78bfa)
+![SQL](https://img.shields.io/badge/SQL-14103a?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-14103a?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
+![Celery](https://img.shields.io/badge/Celery-14103a?style=for-the-badge&logo=celery&logoColor=a78bfa)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-14103a?style=for-the-badge&logo=apachekafka&logoColor=a78bfa)
+![JWT](https://img.shields.io/badge/JWT%20Auth-14103a?style=for-the-badge&logo=jsonwebtokens&logoColor=a78bfa)
+![REST](https://img.shields.io/badge/REST%20APIs-14103a?style=for-the-badge&logo=swagger&logoColor=a78bfa)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React.js-14103a?style=for-the-badge&logo=react&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-14103a?style=for-the-badge&logo=nextdotjs&logoColor=a78bfa)
+![Flutter](https://img.shields.io/badge/Flutter-14103a?style=for-the-badge&logo=flutter&logoColor=a78bfa)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-14103a?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa)
+![Electron](https://img.shields.io/badge/Electron-14103a?style=for-the-badge&logo=electron&logoColor=a78bfa)
+
+**Databases & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14103a?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![Redis](https://img.shields.io/badge/Redis-14103a?style=for-the-badge&logo=redis&logoColor=a78bfa)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS%20EC2%20·%20S3%20·%20SES-14103a?style=for-the-badge&logo=amazonaws&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-14103a?style=for-the-badge&logo=docker&logoColor=a78bfa)
+![Nginx](https://img.shields.io/badge/Nginx-14103a?style=for-the-badge&logo=nginx&logoColor=a78bfa)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-14103a?style=for-the-badge&logo=githubactions&logoColor=a78bfa)
+
+**Integrations**
+
+![Razorpay](https://img.shields.io/badge/Razorpay-14103a?style=for-the-badge&logo=razorpay&logoColor=a78bfa)
+![SendGrid](https://img.shields.io/badge/SendGrid-14103a?style=for-the-badge&logo=sendgrid&logoColor=a78bfa)
+![Figma](https://img.shields.io/badge/Figma-14103a?style=for-the-badge&logo=figma&logoColor=a78bfa)
+
+</div>
+
+---
+
+### `pinned projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 E-Commerce API + Order Pipeline**
+`Python · FastAPI · PostgreSQL · Redis · Celery · Razorpay · Docker`
+
+Multi-tenant REST API with product catalogue, cart, orders, and Razorpay checkout. Offloaded post-payment workflows to Celery + Redis queues — cut p99 response time by ~60%. Deployed via GitHub Actions CI/CD behind Nginx rate limiting.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Distributed Task Scheduler & Notification Engine**
+`FastAPI · Celery · Redis · Kafka · PostgreSQL · React.js · Docker`
+
+Async job-execution service with retry policies and dead-letter handling. Kafka fans out real-time alerts via email and webhook, sustaining 1,000+ task events/min. React dashboard with full PostgreSQL audit log.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `stats`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hariharapranav&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharapranav&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hariharapranav&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" width="55%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=60&section=footer&fontSize=12&fontColor=a78bfa&text=Built%20with%20intention%20·%20Shipped%20with%20ownership" width="100%" />
+
 </div>
