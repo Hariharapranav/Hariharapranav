@@ -121,6 +121,14 @@ Async job-execution service with retry policies and dead-letter handling. Kafka 
   <img src="https://streak-stats.demolab.com?user=Hariharapranav&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" width="55%"/>
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hariharapranav/Hariharapranav/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
 ---
 
 <div align="center">
