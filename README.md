@@ -29,8 +29,6 @@ Full Stack Developer with ~2 years building production-grade applications end-to
 
 Currently at **Edsols Innovations** shipping [Lingooleap](https://hariharapranav.vercel.app/) — a therapy platform for children with autism and speech disabilities — and leading its Flutter mobile app with Razorpay subscription integration.
 
-Also building **Slidio**, an Instagram DM automation SaaS, on the side.
-
 ---
 
 ### `stack`
@@ -80,31 +78,6 @@ Also building **Slidio**, an Instagram DM automation SaaS, on the side.
 ![Figma](https://img.shields.io/badge/Figma-14103a?style=for-the-badge&logo=figma&logoColor=a78bfa)
 
 </div>
-
----
-
-### `pinned projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔗 E-Commerce API + Order Pipeline**
-`Python · FastAPI · PostgreSQL · Redis · Celery · Razorpay · Docker`
-
-Multi-tenant REST API with product catalogue, cart, orders, and Razorpay checkout. Offloaded post-payment workflows to Celery + Redis queues — cut p99 response time by ~60%. Deployed via GitHub Actions CI/CD behind Nginx rate limiting.
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Distributed Task Scheduler & Notification Engine**
-`FastAPI · Celery · Redis · Kafka · PostgreSQL · React.js · Docker`
-
-Async job-execution service with retry policies and dead-letter handling. Kafka fans out real-time alerts via email and webhook, sustaining 1,000+ task events/min. React dashboard with full PostgreSQL audit log.
-
-</td>
-</tr>
-</table>
 
 ---
 
