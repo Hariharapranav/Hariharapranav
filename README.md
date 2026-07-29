@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hariharapranav.com"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — hariharapranav.com" /></a>&nbsp;
+  <a href="http://hariharapranav.vercel.app/"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — hariharapranav.com" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/hariharapranav/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Hariharapranav" /></a>&nbsp;
   <a href="https://x.com/ipranav1702"><img src="./assets/link-x.svg" width="31.5%" alt="X — @ipranav1702" /></a>
 </p>
